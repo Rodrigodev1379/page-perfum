@@ -101,8 +101,6 @@ svg{
 .attribution{
     position: absolute;
     bottom: 0;
-    display: none;
-    
 }
 
 /*Media-Query*/
@@ -119,7 +117,6 @@ svg{
     div#img{
         background-position: center;
     }
-    
     
 }
 
@@ -149,8 +146,5 @@ svg{
         justify-content: space-between;
         width: 50%;
     }
-    .attribution{
-        display: block;
-    }
-
+    
 }
